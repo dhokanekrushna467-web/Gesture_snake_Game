@@ -31,7 +31,7 @@ Open the folder in your terminal or VS Code.
 
 Run the file:
 
-python snake_realistic_hand_tube_fixed.py
+python gesture_snake.py
 
 
 Raise your index finger to move the snake!
